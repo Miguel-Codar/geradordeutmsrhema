@@ -1,0 +1,4 @@
+([('main',
+   '/Users/miguelcodar/Library/CloudStorage/GoogleDrive-contato.msdev@gmail.com/Meu '
+   'Drive/PROGRAMAÇÃO/GERADOR DE UTMS/dist/main',
+   'EXECUTABLE')],)
